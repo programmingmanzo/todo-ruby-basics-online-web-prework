@@ -11,7 +11,6 @@ def argue(phrase = "I'm right and you are wrong!")
 end
 
 def greeting(greeting = "Hi there", name = "Bobby!")
-  greeting
   name
 end
 
